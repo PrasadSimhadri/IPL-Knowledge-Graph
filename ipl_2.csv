@@ -1,0 +1,57 @@
+Player,Team,Match,Opponent,MatchResult,Runs,Venue,Role
+MS Dhoni,CSK,Match 1,MI,Won,33,Chennai,Wicket-Keeper
+Rohit Sharma,MI,Match 1,CSK,Lost,16,Chennai,Batsman
+Ruturaj Gaikwad,CSK,Match 2,RCB,Lost,74,Chennai,Batsman
+Virat Kohli,RCB,Match 2,CSK,Won,34,Chennai,Batsman
+MS Dhoni,CSK,Match 3,GT,Lost,35,Ahmedabad,Wicket-Keeper
+Shubman Gill,GT,Match 3,CSK,Won,63,Ahmedabad,Batsman
+MS Dhoni,CSK,Match 4,RR,Won,35,Ahmedabad,Wicket-Keeper
+Jos Buttler,RR,Match 4,CSK,Lost,40,Ahmedabad,Batsman
+MS Dhoni,CSK,Match 5,PBKS,Won,40,Kolkata,Wicket-Keeper
+Shikhar Dhawan,PBKS,Match 5,CSK,Lost,60,Kolkata,Batsman
+Ruturaj Gaikwad,CSK,Match 6,DC,Won,42,Delhi,Batsman
+Prithvi Shaw,DC,Match 6,CSK,Lost,26,Delhi,Batsman
+Ruturaj Gaikwad,CSK,Match 7,KKR,Lost,27,Chennai,Batsman
+Shreyas Iyer,KKR,Match 7,CSK,Won,62,Chennai,Batsman
+Ruturaj Gaikwad,CSK,Match 8,GT,Lost,13,Mumbai,Batsman
+Hardik Pandya,GT,Match 8,CSK,Won,73,Mumbai,All-rounder
+MS Dhoni,CSK,Match 9,RR,Lost,55,Bengaluru,Wicket-Keeper
+Sanju Samson,RR,Match 9,CSK,Won,64,Bengaluru,Wicket-Keeper
+MS Dhoni,CSK,Match 10,MI,Lost,18,Hyderabad,Wicket-Keeper
+Ishan Kishan,MI,Match 10,CSK,Won,77,Hyderabad,Wicket-Keeper
+Ruturaj Gaikwad,CSK,Match 11,PBKS,Lost,19,Jaipur,Batsman
+Liam Livingstone,PBKS,Match 11,CSK,Won,83,Jaipur,All-rounder
+Ruturaj Gaikwad,CSK,Match 12,DC,Lost,38,Ahmedabad,Batsman
+David Warner,DC,Match 12,CSK,Won,66,Ahmedabad,Batsman
+MS Dhoni,CSK,Match 13,KKR,Won,68,Mumbai,Wicket-Keeper
+Andre Russell,KKR,Match 13,CSK,Lost,25,Mumbai,All-rounder
+Virat Kohli,RCB,Match 14,MI,Won,53,Bengaluru,Batsman
+Ishan Kishan,MI,Match 14,RCB,Lost,31,Bengaluru,Wicket-Keeper
+Faf du Plessis,RCB,Match 15,GT,Lost,37,Jaipur,Batsman
+Shubman Gill,GT,Match 15,RCB,Won,72,Jaipur,Batsman
+Faf du Plessis,RCB,Match 16,RR,Lost,30,Delhi,Batsman
+Sanju Samson,RR,Match 16,RCB,Won,65,Delhi,Wicket-Keeper
+Virat Kohli,RCB,Match 17,PBKS,Won,49,Kolkata,Batsman
+Liam Livingstone,PBKS,Match 17,RCB,Lost,44,Kolkata,All-rounder
+Virat Kohli,RCB,Match 18,DC,Won,66,Mumbai,Batsman
+David Warner,DC,Match 18,RCB,Lost,33,Mumbai,Batsman
+Faf du Plessis,RCB,Match 19,KKR,Won,41,Delhi,Batsman
+Shreyas Iyer,KKR,Match 19,RCB,Lost,29,Delhi,Batsman
+Hardik Pandya,GT,Match 20,MI,Lost,26,Jaipur,All-rounder
+Rohit Sharma,MI,Match 20,GT,Won,59,Jaipur,Batsman
+Hardik Pandya,GT,Match 21,RR,Won,58,Hyderabad,All-rounder
+Jos Buttler,RR,Match 21,GT,Lost,32,Hyderabad,Batsman
+Shubman Gill,GT,Match 22,PBKS,Won,70,Kolkata,Batsman
+Shikhar Dhawan,PBKS,Match 22,GT,Lost,48,Kolkata,Batsman
+Shubman Gill,GT,Match 23,DC,Won,67,Delhi,Batsman
+Prithvi Shaw,DC,Match 23,GT,Lost,38,Delhi,Batsman
+Hardik Pandya,GT,Match 24,KKR,Won,43,Ahmedabad,All-rounder
+Andre Russell,KKR,Match 24,GT,Lost,24,Ahmedabad,All-rounder
+Jos Buttler,RR,Match 25,MI,Lost,34,Delhi,Batsman
+Ishan Kishan,MI,Match 25,RR,Won,50,Delhi,Wicket-Keeper
+Sanju Samson,RR,Match 26,PBKS,Won,72,Mumbai,Wicket-Keeper
+Liam Livingstone,PBKS,Match 26,RR,Lost,55,Mumbai,All-rounder
+Sanju Samson,RR,Match 27,DC,Lost,36,Bengaluru,Wicket-Keeper
+Prithvi Shaw,DC,Match 27,RR,Won,40,Bengaluru,Batsman
+Jos Buttler,RR,Match 28,KKR,Won,57,Chennai,Batsman
+Shreyas Iyer,KKR,Match 28,RR,Lost,39,Chennai,Batsman
