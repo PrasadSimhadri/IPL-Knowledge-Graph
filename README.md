@@ -25,7 +25,6 @@ ipl-knowledge-graph/
 ├── data/
 │   └── ipl\_matches.csv         # Enriched IPL dataset
 ├── ipl\_knowledge\_graph.ipynb   # Jupyter Notebook
-├── ipl\_kg\_graph.png            # Output image 
 └── README.md                   
 
 ````
@@ -48,7 +47,6 @@ Clone the repo and install dependencies:
 ```bash
 git clone https://github.com/PrasadSimhadri/IPL-Knowledge-Graph.git
 cd ipl-knowledge-graph
-pip install -r requirements.txt
 ````
 
 Or manually install:
@@ -71,12 +69,6 @@ pip install pandas networkx matplotlib
    * Load dataset
    * Build the graph
    * Visualize the IPL knowledge network
-
----
-
-## 📷 Output Preview
-
-If you save the graph as an image using `plt.savefig("ipl_kg_graph.png")`, you can include it here.
 
 ---
 
